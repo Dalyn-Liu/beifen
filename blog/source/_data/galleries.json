@@ -1,0 +1,28 @@
+[{
+    "name": "BUG",  
+    "cover": "/images/BUG/bg.jpg",  
+    "description": "君未看BUG时，BUG与君同寂；君来看BUG，BUG一大堆。",  
+    "photos": [  
+      "/images/BUG/bg.jpg"
+    ]
+  }, {
+    "name": "深圳杂志",
+    "cover": "/images/深圳/6.jpg",
+    "description": "翻开随身携带的记事本，写着许多事都是关于你。",
+    "photos": [
+      "/images/深圳/1.jpg",
+      "/images/深圳/2.jpg",
+      "/images/深圳/3.jpg",
+      "/images/深圳/4.jpg",
+      "/images/深圳/5.jpg",
+      "/images/深圳/6.jpg",
+      "/images/深圳/7.jpg",
+      "/images/深圳/8.jpg",
+      "/images/深圳/9.jpg",
+      "/images/深圳/10.jpg",
+      "/images/深圳/11.jpg",
+      "/images/深圳/12.jpg",
+      "/images/深圳/13.jpg",
+      "/images/深圳/14.jpg"
+    ]
+  }]
